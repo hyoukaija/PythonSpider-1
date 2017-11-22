@@ -1,0 +1,1 @@
+![](https://github.com/viljw/PythonSpider/blob/master/%E7%88%AC%E8%99%AB%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/4.%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%83%AD%E8%AF%84/%E7%BB%93%E6%9E%9C%E6%88%AA%E5%9B%BE.PNG)
