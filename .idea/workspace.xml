@@ -13,40 +13,37 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PythonSpider$douban.coverage" NAME="douban Coverage Results" MODIFIED="1511832125139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/6.网站模拟登录" />
+    <SUITE FILE_PATH="coverage/PythonSpider$weixin.coverage" NAME="weixin Coverage Results" MODIFIED="1512400990191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/7.微信APP用户评论" />
     <SUITE FILE_PATH="coverage/PythonSpider$wangyiyun.coverage" NAME="wangyiyun Coverage Results" MODIFIED="1511277414911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/4.网易云音乐热评" />
     <SUITE FILE_PATH="coverage/PythonSpider$gongsi.coverage" NAME="gongsi Coverage Results" MODIFIED="1511311450029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/5.世界公司500强" />
+    <SUITE FILE_PATH="coverage/PythonSpider$weixin1.coverage" NAME="weixin1 Coverage Results" MODIFIED="1512432720029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/7.微信APP用户评论" />
     <SUITE FILE_PATH="coverage/PythonSpider$qiubai.coverage" NAME="qiubai Coverage Results" MODIFIED="1511264585751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/1.糗事百科" />
     <SUITE FILE_PATH="coverage/PythonSpider$anjuke.coverage" NAME="anjuke Coverage Results" MODIFIED="1511438901025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/5.安居客二手房信息" />
     <SUITE FILE_PATH="coverage/PythonSpider$jiepai.coverage" NAME="jiepai Coverage Results" MODIFIED="1511263806871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/3.今日头条街拍" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="douban.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫项目源码/6.豆瓣模拟登录/douban.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="weixin.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/爬虫项目源码/7.微信APP用户评论/weixin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="58" lean-forward="false" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+            <state relative-caret-position="346">
+              <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
               <folding>
-                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ghostdriver.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫项目源码/6.豆瓣模拟登录/ghostdriver.log">
+      <file leaf-file-name="weixin1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/爬虫项目源码/7.微信APP用户评论/weixin1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="227">
+              <caret line="33" column="61" lean-forward="false" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="douban.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/爬虫项目源码/6.豆瓣模拟登录/douban.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -73,6 +70,9 @@
         <option value="$PROJECT_DIR$/爬虫项目源码/5.世界公司500强/gongsi.py" />
         <option value="$PROJECT_DIR$/爬虫项目源码/5.安居客二手房信息/anjuke.py" />
         <option value="$PROJECT_DIR$/爬虫项目源码/6.网站模拟登录/douban.py" />
+        <option value="$PROJECT_DIR$/爬虫项目源码/7.微信APP用户评论/weixin.py" />
+        <option value="$PROJECT_DIR$/爬虫项目源码/7.微信APP用户评论/weixin1.py" />
+        <option value="$PROJECT_DIR$/爬虫项目源码/7.微信APP用户评论/weixin2.py" />
       </list>
     </option>
   </component>
@@ -82,11 +82,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="319" />
-    <option name="y" value="60" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="400" />
     <option name="width" value="847" />
-    <option name="height" value="559" />
+    <option name="height" value="690" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -104,6 +103,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,13 +120,36 @@
               <item name="PythonSpider" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonSpider" type="462c0819:PsiDirectoryNode" />
               <item name="爬虫项目源码" type="462c0819:PsiDirectoryNode" />
+              <item name="2.豆瓣电影Top250" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫项目源码" type="462c0819:PsiDirectoryNode" />
+              <item name="3.今日头条街拍" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫项目源码" type="462c0819:PsiDirectoryNode" />
+              <item name="4.网易云音乐热评" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫项目源码" type="462c0819:PsiDirectoryNode" />
               <item name="6.豆瓣模拟登录" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫项目源码" type="462c0819:PsiDirectoryNode" />
+              <item name="7.微信APP用户评论" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -146,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.douban">
+  <component name="RunManager" selected="Python.weixin1">
     <configuration name="anjuke" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,56 +224,56 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="qiubai" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="weixin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫项目源码/1.糗事百科" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫项目源码/7.微信APP用户评论" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonSpider" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫项目源码/1.糗事百科/qiubai.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫项目源码/7.微信APP用户评论/weixin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="wangyiyun" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="weixin1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫项目源码/4.网易云音乐热评" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫项目源码/7.微信APP用户评论" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonSpider" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫项目源码/4.网易云音乐热评/wangyiyun.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫项目源码/7.微信APP用户评论/weixin1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.qiubai" />
-      <item index="1" class="java.lang.String" itemvalue="Python.wangyiyun" />
-      <item index="2" class="java.lang.String" itemvalue="Python.gongsi" />
-      <item index="3" class="java.lang.String" itemvalue="Python.anjuke" />
-      <item index="4" class="java.lang.String" itemvalue="Python.douban" />
+      <item index="0" class="java.lang.String" itemvalue="Python.gongsi" />
+      <item index="1" class="java.lang.String" itemvalue="Python.anjuke" />
+      <item index="2" class="java.lang.String" itemvalue="Python.douban" />
+      <item index="3" class="java.lang.String" itemvalue="Python.weixin" />
+      <item index="4" class="java.lang.String" itemvalue="Python.weixin1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.douban" />
-        <item index="1" class="java.lang.String" itemvalue="Python.anjuke" />
-        <item index="2" class="java.lang.String" itemvalue="Python.gongsi" />
-        <item index="3" class="java.lang.String" itemvalue="Python.wangyiyun" />
-        <item index="4" class="java.lang.String" itemvalue="Python.qiubai" />
+        <item index="0" class="java.lang.String" itemvalue="Python.weixin1" />
+        <item index="1" class="java.lang.String" itemvalue="Python.weixin" />
+        <item index="2" class="java.lang.String" itemvalue="Python.douban" />
+        <item index="3" class="java.lang.String" itemvalue="Python.anjuke" />
+        <item index="4" class="java.lang.String" itemvalue="Python.gongsi" />
       </list>
     </recent_temporary>
   </component>
@@ -268,15 +291,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27231467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16490166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27272728" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38250428" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -302,6 +325,53 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/7.微信APP用户评论/weixin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/7.微信APP用户评论/weixin1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="33" column="61" lean-forward="true" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/7.微信APP用户评论/weixin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="35" column="23" lean-forward="false" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/6.豆瓣模拟登录/douban.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="58" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/7.微信APP用户评论/weixin1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="42" column="23" lean-forward="false" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/爬虫项目源码/1.糗事百科/qiubai.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -369,28 +439,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫项目源码/4.网易云音乐热评/wangyiyun.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/爬虫项目源码/5.世界公司500强/gongsi.py" />
-    <entry file="file://$PROJECT_DIR$/爬虫项目源码/3.今日头条街拍/jiepai.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1098">
-          <caret line="71" column="14" lean-forward="true" selection-start-line="71" selection-start-column="14" selection-end-line="71" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫项目源码/2.豆瓣电影Top250/douban.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/爬虫项目源码/5.安居客二手房信息/data.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4182">
@@ -405,13 +454,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫项目源码/1.糗事百科/qiubai.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="27" column="21" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -419,17 +461,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/6.豆瓣模拟登录/douban.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/6.豆瓣模拟登录/ghostdriver.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/4.网易云音乐热评/wangyiyun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/3.今日头条街拍/jiepai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="71" column="14" lean-forward="true" selection-start-line="71" selection-start-column="14" selection-end-line="71" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/2.豆瓣电影Top250/douban.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/1.糗事百科/qiubai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/爬虫项目源码/6.豆瓣模拟登录/douban.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="58" lean-forward="false" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+          <caret line="8" column="58" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/7.微信APP用户评论/weixin1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="33" column="61" lean-forward="false" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫项目源码/6.豆瓣模拟登录/ghostdriver.log">
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/7.微信APP用户评论/weixin2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -437,9 +526,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫项目源码/6.豆瓣模拟登录/douban.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/7.微信APP用户评论/weixin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
