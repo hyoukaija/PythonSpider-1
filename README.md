@@ -6,3 +6,4 @@ Python爬虫合集
 ##### [网易云音乐热评](https://github.com/viljw/PythonSpider/tree/master/%E7%88%AC%E8%99%AB%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/4.%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%83%AD%E8%AF%84)
 ##### [安居客二手房信息](https://github.com/viljw/PythonSpider/tree/master/%E7%88%AC%E8%99%AB%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/5.%E5%AE%89%E5%B1%85%E5%AE%A2%E4%BA%8C%E6%89%8B%E6%88%BF%E4%BF%A1%E6%81%AF)
 ##### [豆瓣模拟登录](https://github.com/viljw/PythonSpider/tree/master/%E7%88%AC%E8%99%AB%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/6.%E8%B1%86%E7%93%A3%E6%A8%A1%E6%8B%9F%E7%99%BB%E5%BD%95)
+##### [微信APP用户评论](https://github.com/viljw/PythonSpider/tree/master/%E7%88%AC%E8%99%AB%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/7.%E5%BE%AE%E4%BF%A1APP%E7%94%A8%E6%88%B7%E8%AF%84%E8%AE%BA)
