@@ -7,18 +7,6 @@
 ##### [2.HTML&CSS](/Python-spider-tutorial/2.HTML&CSS.md)
 ##### [3.Urllib](/Python-spider-tutorial/3.Urllib.md)
 ##### [4.正则表达式](/Python-spider-tutorial/4.正则表达式.md)
-##### [5.Xpath与Lxml](/Python-spider-tutorial/5.Xpath与Lxml.md)
-##### [6.BeautifulSoup](/Python-spider-tutorial/6.BeautifulSoup.md)
-##### [7.Pyquery](/Python-spider-tutorial/7.Pyquery.md)
-##### [8.Requests](/Python-spider-tutorial/8.Requests.md)
-##### [9.Selenium](/Python-spider-tutorial/9.Selenium.md)
-##### 10.Scrapy框架
-###### 10.1 [Scrapy入门](/Python-spider-tutorial/10.1Scrapy入门.md)
-##### [11.Scrapy实战项目](/Python-spider-tutorial/11.Scrapy实战项目.md)
-##### [12.Scrapy-redis分布式组件](/Python-spider-tutorial/12.Scrapy-redis分布式组件.md)
-##### [13.Scrapy-redis实战项目](/Python-spider-tutorial/13.Scrapy-redis实战项目.md)
-
-#### 反爬
 
 #### Python爬虫合集
 ##### [糗事百科段子](https://github.com/viljw/PythonSpider/tree/master/%E7%88%AC%E8%99%AB%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/1.%E7%B3%97%E4%BA%8B%E7%99%BE%E7%A7%91)
