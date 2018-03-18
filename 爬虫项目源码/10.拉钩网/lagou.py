@@ -1,11 +1,12 @@
 import requests
 from fake_useragent import UserAgent
 from lxml import etree
-import pandas as pd
+import time
+import csv
 
 user_agent = UserAgent()
-base_url = 'https://www.lagou.com/zhaopin/Python/{page}/?filterOption={id}'
-
+# base_url = 'https://www.lagou.com/zhaopin/Python/{page}'
+base_url = "https://www.lagou.com"
 
 def generate_headers():
     headers = {
@@ -18,6 +19,13 @@ def get_html(url):
     headers = generate_headers()
     response = requests.get(url, headers=headers)
     return response.text
+
+# 获取主页各种职位链接
+def getLinks(html):
+    html = etree.HTML(html)
+    links = html.xpath('//div[@class="menu_sub dn"]//a/@href')
+    return links
+
 
 
 def parse_html(html):
@@ -32,12 +40,16 @@ def parse_html(html):
                item.xpath('//div[@class="p_top"]/a/span/em/text()')[0])
 
 
-if __name__ == '__main__':
-    jobs = []
-    for i in range(1, 10):  # 调整页数
-        for item in parse_html(get_html(base_url.format(page=str(i), id=str(i)))):
-            print(item)
-            jobs.append(item)
+def saveToFile(item, filename="lagoujob.csv"):
+    with open(filename, 'a', encoding='utf-8') as f:
+        csvWriter = csv.writer(f)
+        csvWriter.writerow(item)
 
-    jobs = pd.DataFrame(jobs)
-    jobs.to_csv('jobs.csv', header=False, index=False)
+if __name__ == '__main__':
+    links = getLinks(get_html(base_url))
+    for link in links:
+        for i in range(1, 30):  # 调整页数
+            for item in parse_html(get_html(link+str(i))):
+                print(item)
+                saveToFile(item)
+            time.sleep(2)
