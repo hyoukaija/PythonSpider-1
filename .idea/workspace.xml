@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d1b86a32-7f32-4d3d-b5e9-bfed4c531cde" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/爬虫项目源码/12.石原里美/satomi/.idea/workspace.xml" afterPath="$PROJECT_DIR$/爬虫项目源码/12.石原里美/satomi/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/爬虫项目源码/2.豆瓣电影Top250/douban.py" afterPath="$PROJECT_DIR$/爬虫项目源码/2.豆瓣电影Top250/douban.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,14 +17,15 @@
     <SUITE FILE_PATH="coverage/PythonSpider$gongsi.coverage" NAME="gongsi Coverage Results" MODIFIED="1511311450029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/5.世界公司500强" />
     <SUITE FILE_PATH="coverage/PythonSpider$weibo.coverage" NAME="weibo Coverage Results" MODIFIED="1515128019111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/9.新浪微博移动端" />
     <SUITE FILE_PATH="coverage/PythonSpider$yilong.coverage" NAME="yilong Coverage Results" MODIFIED="1515077538314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/7.艺龙酒店" />
-    <SUITE FILE_PATH="coverage/PythonSpider$lagou.coverage" NAME="lagou Coverage Results" MODIFIED="1515220041754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/10.拉钩网" />
     <SUITE FILE_PATH="coverage/PythonSpider$taonvlang.coverage" NAME="taonvlang Coverage Results" MODIFIED="1516810931198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/13.淘女郎" />
+    <SUITE FILE_PATH="coverage/PythonSpider$lagou.coverage" NAME="lagou Coverage Results" MODIFIED="1520343535477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/10.拉钩网" />
     <SUITE FILE_PATH="coverage/PythonSpider$anjuke.coverage" NAME="anjuke Coverage Results" MODIFIED="1511438901025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/5.安居客二手房信息" />
     <SUITE FILE_PATH="coverage/PythonSpider$neihan.coverage" NAME="neihan Coverage Results" MODIFIED="1515115621758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/8.内涵段子" />
     <SUITE FILE_PATH="coverage/PythonSpider$weixin.coverage" NAME="weixin Coverage Results" MODIFIED="1512400990191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/7.微信APP用户评论" />
     <SUITE FILE_PATH="coverage/PythonSpider$douban.coverage" NAME="douban Coverage Results" MODIFIED="1515856534518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/2.豆瓣电影Top250" />
     <SUITE FILE_PATH="coverage/PythonSpider$wangyiyun.coverage" NAME="wangyiyun Coverage Results" MODIFIED="1511277414911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/4.网易云音乐热评" />
     <SUITE FILE_PATH="coverage/PythonSpider$dianying.coverage" NAME="dianying Coverage Results" MODIFIED="1516283069292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/11.电影天堂" />
+    <SUITE FILE_PATH="coverage/PythonSpider$airquality.coverage" NAME="airquality Coverage Results" MODIFIED="1518789832266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/14.天气质量" />
     <SUITE FILE_PATH="coverage/PythonSpider$weixin1.coverage" NAME="weixin1 Coverage Results" MODIFIED="1512432720029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/7.微信APP用户评论" />
     <SUITE FILE_PATH="coverage/PythonSpider$qiubai.coverage" NAME="qiubai Coverage Results" MODIFIED="1511264585751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/1.糗事百科" />
     <SUITE FILE_PATH="coverage/PythonSpider$jiepai.coverage" NAME="jiepai Coverage Results" MODIFIED="1511263806871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫项目源码/3.今日头条街拍" />
@@ -43,7 +43,28 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="airquality.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/爬虫项目源码/14.天气质量/airquality.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1428">
+              <caret line="90" column="48" lean-forward="false" selection-start-line="90" selection-start-column="48" selection-end-line="90" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="383">
+              <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,6 +76,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>dire</find>
+      <find>73</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -78,8 +100,6 @@
         <option value="$PROJECT_DIR$/爬虫项目源码/8.内涵段子/neihan.py" />
         <option value="$PROJECT_DIR$/爬虫项目源码/9.新浪微博/weibo.py" />
         <option value="$PROJECT_DIR$/爬虫项目源码/9.新浪微博移动端/weibo.py" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/爬虫项目源码/10.拉钩网/lagou.py" />
         <option value="$PROJECT_DIR$/爬虫项目源码/2.豆瓣电影Top250/douabn.csv" />
         <option value="$PROJECT_DIR$/爬虫项目源码/2.豆瓣电影Top250/douban.py" />
         <option value="$PROJECT_DIR$/爬虫项目源码/11.电影天堂/dianying.py" />
@@ -87,6 +107,10 @@
         <option value="$PROJECT_DIR$/爬虫项目源码/Satomi/Satomi/spiders/mm.py" />
         <option value="$PROJECT_DIR$/爬虫项目源码/13.淘女郎/taonvlang.py" />
         <option value="$PROJECT_DIR$/爬虫项目源码/13.淘女郎/downloadpics.py" />
+        <option value="$PROJECT_DIR$/爬虫项目源码/10.拉钩网/lagou.py" />
+        <option value="$PROJECT_DIR$/爬虫项目源码/10.拉钩网/lagoujonb.csv" />
+        <option value="$PROJECT_DIR$/爬虫项目源码/14.天气质量/airquality.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -96,9 +120,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="476" />
-    <option name="y" value="25" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="513" />
     <option name="width" value="847" />
     <option name="height" value="681" />
   </component>
@@ -117,6 +140,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,27 +157,19 @@
               <item name="PythonSpider" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonSpider" type="462c0819:PsiDirectoryNode" />
               <item name="爬虫项目源码" type="462c0819:PsiDirectoryNode" />
-              <item name="14.空气质量" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonSpider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="爬虫项目源码" type="462c0819:PsiDirectoryNode" />
-              <item name="14.空气质量" type="462c0819:PsiDirectoryNode" />
-              <item name="air" type="462c0819:PsiDirectoryNode" />
+              <item name="14.天气质量" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/爬虫项目源码/14.空气质量/air" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -167,7 +183,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.downloadpics">
+  <component name="RunManager" selected="Python.lagou">
+    <configuration name="airquality" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫项目源码/14.天气质量" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonSpider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫项目源码/14.天气质量/airquality.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="dianying" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,24 +216,6 @@
       <module name="PythonSpider" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫项目源码/11.电影天堂/dianying.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="douban" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫项目源码/2.豆瓣电影Top250" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonSpider" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫项目源码/2.豆瓣电影Top250/douban.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,19 +275,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.lagou" />
-      <item index="1" class="java.lang.String" itemvalue="Python.douban" />
-      <item index="2" class="java.lang.String" itemvalue="Python.dianying" />
-      <item index="3" class="java.lang.String" itemvalue="Python.taonvlang" />
-      <item index="4" class="java.lang.String" itemvalue="Python.downloadpics" />
+      <item index="0" class="java.lang.String" itemvalue="Python.dianying" />
+      <item index="1" class="java.lang.String" itemvalue="Python.taonvlang" />
+      <item index="2" class="java.lang.String" itemvalue="Python.downloadpics" />
+      <item index="3" class="java.lang.String" itemvalue="Python.airquality" />
+      <item index="4" class="java.lang.String" itemvalue="Python.lagou" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.downloadpics" />
-        <item index="1" class="java.lang.String" itemvalue="Python.taonvlang" />
-        <item index="2" class="java.lang.String" itemvalue="Python.dianying" />
-        <item index="3" class="java.lang.String" itemvalue="Python.douban" />
-        <item index="4" class="java.lang.String" itemvalue="Python.lagou" />
+        <item index="0" class="java.lang.String" itemvalue="Python.lagou" />
+        <item index="1" class="java.lang.String" itemvalue="Python.airquality" />
+        <item index="2" class="java.lang.String" itemvalue="Python.downloadpics" />
+        <item index="3" class="java.lang.String" itemvalue="Python.taonvlang" />
+        <item index="4" class="java.lang.String" itemvalue="Python.dianying" />
       </list>
     </recent_temporary>
   </component>
@@ -289,9 +305,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="476" y="25" width="847" height="681" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33799237" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23373677" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5030257" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -299,7 +316,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45025295" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32884616" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28836426" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -325,41 +342,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/爬虫项目源码/3.今日头条街拍/Images/46f80000beb17aba3a66.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫项目源码/3.今日头条街拍/Images/46f50002ddfc3eb94b92.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫项目源码/3.今日头条街拍/Images/46f40002faeb84f0b9e6.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫项目源码/3.今日头条街拍/Images/46f30002b6662ea91720.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫项目源码/3.今日头条街拍/Images/43920001201186c1d859.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫项目源码/3.今日头条街拍/Images/322100052b4e222310fa.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫项目源码/3.今日头条街拍/Images/dd20006e6bb7f00d501.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/爬虫项目源码/4.网易云音乐热评/song_id.txt" />
     <entry file="file://$PROJECT_DIR$/爬虫项目源码/4.网易云音乐热评/Comments/277111.txt" />
     <entry file="file://$PROJECT_DIR$/爬虫项目源码/4.网易云音乐热评/Comments/417250561.txt" />
@@ -465,13 +447,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="32" column="25" lean-forward="false" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/爬虫项目源码/2.豆瓣电影Top250/豆瓣电影Top250.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -493,11 +468,6 @@
         <state relative-caret-position="63">
           <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="63" selection-end-column="25" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫项目源码/10.拉钩网/结果截图.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/爬虫项目源码/11.电影天堂/结果截图.jpg">
@@ -568,17 +538,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫项目源码/10.拉钩网/jobs.csv">
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/14.天气质量/airquality/airquality/spiders/aqistudy.py" />
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/14.天气质量/airquality/airquality/settings.py" />
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/14.天气质量/airquality/airquality/items.py" />
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/14.天气质量/airquality/airquality/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/10.拉钩网/jobs.csv" />
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/10.拉钩网/lagou.csv" />
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/10.拉钩网/结果截图.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/10.拉钩网/lagoujonb.csv" />
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/10.拉钩网/lagou.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="174">
+          <caret line="54" column="25" lean-forward="true" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫项目源码/10.拉钩网/lagou.py">
+    <entry file="file://$PROJECT_DIR$/爬虫项目源码/14.天气质量/airquality.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-353">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="1428">
+          <caret line="90" column="48" lean-forward="false" selection-start-line="90" selection-start-column="48" selection-end-line="90" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
